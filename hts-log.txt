@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 05 Oct 2022 19:13:13 at https://www.pastiwd777.com/transaction#deposit +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.pastiwd777.com/transaction#deposit -O1 "C:\Users\LENOVO 4\Desktop\awdw" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:14:04	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+19:14:04	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/deposit (from primary/primary)
+19:14:13	Warning: 	Link https://www.pastiwd777.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+19:15:14	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.pastiwd777.com/feedback (from https://www.pastiwd777.com/)
+19:15:17	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/deposit (from primary/primary)
+19:16:27	Warning: 	Retry after error 500 () at link https://www.pastiwd777.com/feedback (from https://www.pastiwd777.com/)
+19:16:27	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/deposit (from primary/primary)
+19:16:27	Error: 	"" (500) after 2 retries at link https://www.pastiwd777.com/feedback (from https://www.pastiwd777.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 14 seconds : 447 links scanned, 439 files written (51797128 bytes overall) [48046125 bytes received at 247660 bytes/sec], 7558378 bytes transferred using HTTP compression in 46 files, ratio 38%, 18.3 requests per connection
+(3 errors, 5 warnings, 0 messages)
